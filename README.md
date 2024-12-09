@@ -7,5 +7,5 @@
 ## **✨ Projects**
 
 **Ai Hoshino - MD**
-**Bot Multi Device de WhatsApp impulsado por Baileys
+**Bot Multi Device de WhatsApp impulsado por Baileys**
 <br><br>
