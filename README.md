@@ -1,7 +1,7 @@
 ![Icon](https://i.ibb.co/T1rChbK/file.jpg)
 
 ## **🪴 About me**
-<a href="https://github.com/AikerDev"><img align="left" width="100" src="https://i.ibb.co/b5rvyXm/file.jpg"></a>
+<a href="https://github.com/AikerDev"><img align="left" width="100" src="https://github.com/AikerDev.png"></a>
 
 **Hola 👋, soy Daniel, un chico de 19 años que sueña con ser médico cirujano. Me gustan los videojuegos, la música y la programación, con dos proyectos en JavaScript.**
 
